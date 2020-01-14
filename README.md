@@ -20,6 +20,10 @@ Why I made it: For fun and exercise.
 Why not just use AutoHotKey: Perhaps I could. But that would be no fun. I also do not know how it works.
 This also uses tess4j (Tesseract OCR) to extract text from images as a way to handle decision making in dialogs. That's freaking cool. (Mostly because I know squat at all about memory reading and maths.
 
+100 MB?!?!?!: Yhea, the traineddata for the latin letters for tesseract takes up lots of data, the english traineddata takes up it's fair space too. I had to pick the best one (which is bigger than the fast one) to lower the chances enough of getting a failed string reading from images.
+
+How does that tesseract stuff work anyways?: Fuck if I know. In the source code I simply take a screenshot of your game (when it is in fullscreen, this is not applicable in this current test)'s dialog box down there at the bottom middle, when the ball has struck it's target. Then this bad boy engine reads that shit and extracts text into a string. Looking for unique words in what pondo says on that image, allows the application to know which way to go and what methos to trigger.
+
 I am sharing this with you because I am nice.
 
 **MIT License, I do not take any responsibility if this fries your computer.**
