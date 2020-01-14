@@ -34,7 +34,10 @@ Go to pondos hut.
 
 Grab the KeyboardMacroPondos.txt file and plop it into your cemu/controllerProfiles folder. Load that up as your controllerscheme.
 
-Place the jar in it's own folder somewhere. Give it a cheeky name and a squeeze on the buttocks.
+Grab the jar from here: https://easyupload.io/4b9urd
+Password is (without quotes "):  "pondoforeclosed"
+
+Place the jar in it's own folder somewhere. Give the folder a cheeky name and a squeeze on the buttocks.
 
 Go to pondo with the intention of getting him to foreclose because of all the rupees you will be robbing him off.
 Pay him the enter fee and keep going trough dialog until you reach the point where you are in control again (After he says Good Luck).
