@@ -60,7 +60,7 @@ WASD walk<br/>
 TFGH Camera<br/>
 A = Keyboard Y<br/>
 B = Keyboard U<br/>
-L = That item pause menu.<br/>
++ = L (That item pause menu.)<br/>
 I = R.<br/>
 Nothing else is set.<br/>
 
