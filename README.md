@@ -55,6 +55,14 @@ Every attempt where pondo has said "Soooooo... What do you think about giving it
 
 Everytime you leave pondo (or have arrived at him) and he says "Halloooo kiddums", you use "Debug: doFirstStrike" the first time.
 
+P.S When I mean that automation is disabled, I do mean everything, that includes tesseract stuff. So it will not go trough dialog by itself in this test. That you still need to do the old fashioned way. 
+WASD walk
+TFGH Camera
+A = Keyboard Y
+B = Keyboard U
+L = That item pause menu.
+I = R.
+Nothing else is set.
 
 Ty for testing. :)
 Do bring a barfing bag if you open the jar and peek at the sourcecode. It's a bit of a spaghettiville in there.
