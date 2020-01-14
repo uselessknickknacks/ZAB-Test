@@ -1,5 +1,5 @@
 # ZAB-Test
-Zelda Automated Bowler for PC (aka for use on **cemu emulator**) made in Java. This is the first public test/tide me over version and automation is disabled. READ THE README! Windows 10 required!
+Zelda Automated Bowler for PC (aka for use on **cemu emulator 1.16.1**) made in Java. This is the first public test/tide me over version and automation is disabled. READ THE README! Windows 10 required!
 
 
 While I work on finishing the rest of the dialogs (it can currently automate bowling and getting strikes + go trough dialog, but it cannot yet recover from a failed throw and it's associated dialogs), I figured I would release this to see if anyone wants to test it. So worth mentioning it again: Automation is disabled in this upload.
